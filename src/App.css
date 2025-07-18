@@ -1,0 +1,22 @@
+/* src/App.css */
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  padding: 0.5rem;
+  width: 70%;
+  margin-right: 10px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 1rem;
+}
